@@ -85,7 +85,6 @@ Returns if no error:
 
 ### address.php
 Parameters:
-Parameters:
 - api_key: Your unique api key
 - invoice: Unique invoid ID
 
